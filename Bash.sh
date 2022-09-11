@@ -12,3 +12,4 @@ conda install -c conda-forge matplotlib
 conda install -c anaconda seaborn
 conda install -c anaconda tensorflow
 conda install -c conda-forge statsmodels
+conda install -c conda-forge numpy=1.19.5
