@@ -13,6 +13,9 @@ As a personal project, this models aim to forecast the amount of CO2 emissions w
 ## Data
 The data used in this model is provided by Our World in Data: [CO2 Emissions - Our World in Data](https://github.com/owid/co2-data).
 
-## Files
+## Dependencies
+Env.sh is a bash file with all necessary dependencies for a virtual environment able to run this project.
+
+## Models
 1. ARIMA Model: Arima_Model.ipynb
 2. LSTM Model: LSTM_Model.ipynb
