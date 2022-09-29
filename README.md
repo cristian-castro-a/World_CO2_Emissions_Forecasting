@@ -1,4 +1,5 @@
-# Analysis of World's CO2 Emissions using ARIMA Model
+# Forecasting of World's CO2 Emissions:
+## Comparison between ARIMA and LSTM Recurrent Neural Network Models for Forecasting
 ![GitHub watchers](https://img.shields.io/github/watchers/cristian-castro-a/CO2_Emissions_Analysis_using_ARIMA_Model?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cristian-castro-a/CO2_Emissions_Analysis_using_ARIMA_Model)
 
 ## Motivation
