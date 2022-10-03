@@ -18,3 +18,4 @@ conda install -c plotly plotly=5.10.0
 conda install -c anaconda nbformat
 conda install -c anaconda pyyaml
 conda install -c conda-forge h5py
+conda install -c conda-forge python-kaleido
