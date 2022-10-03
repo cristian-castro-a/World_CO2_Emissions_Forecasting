@@ -23,4 +23,4 @@ The data used in this model is provided by Our World in Data: [CO2 Emissions - O
 ### Models
 Each model was trained and experimented individually. This can be seen in each Jupyter Notebook in folder: Models.
 ### Dependencies
-Env.sh is a bash file with all necessary dependencies for a virtual environment able to run this project.
+Env.sh is a bash file with all necessary dependencies for a virtual environment able to run this project. This is meant for a Conda Environment, but you can adapt it to your specific like if you are using virtualenv.

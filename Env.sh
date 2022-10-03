@@ -16,3 +16,5 @@ conda install -c conda-forge statsmodels
 conda install -c conda-forge numpy=1.19.5
 conda install -c plotly plotly=5.10.0
 conda install -c anaconda nbformat
+conda install -c anaconda pyyaml
+conda install -c conda-forge h5py
