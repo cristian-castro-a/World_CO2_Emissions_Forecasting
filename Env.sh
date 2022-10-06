@@ -19,3 +19,4 @@ conda install -c anaconda nbformat
 conda install -c anaconda pyyaml
 conda install -c conda-forge h5py
 conda install -c conda-forge python-kaleido
+conda install -c conda-forge keras-tuner
