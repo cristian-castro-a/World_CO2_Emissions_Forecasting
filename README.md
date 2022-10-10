@@ -36,7 +36,9 @@ As this project considers the world as a one entity, I recommend to watch this v
 ## Structure of the Repository
 ### Data
 The data used in this model is provided by Our World in Data: [CO2 Emissions - Our World in Data](https://github.com/owid/co2-data). Can be found in folder: Data.
-### Models
-Each model was trained and experimented individually. This can be seen in each Jupyter Notebook in folder: Models.
-### Dependencies and Requirements
-Env.sh is a bash file with all necessary dependencies for a virtual environment able to run this project. This is meant for a Conda Environment, but you can adapt it to your specific like if you are using virtualenv.
+## Jupyter Notebooks
+- ARIMA_vs_LSTM.ipynb: Jupyter Notebook where the comparison between both models is presented. Each model was trained separately, if interested in the individual training processes please refer to the other two Jupyter Notebooks.
+- Models > Arima_Model.ipynb: Jupyter Notebook with the data preprocessing, training and tuning of an ARIMA Model.
+- Models > LSTM_Model.ipynb: Jupyter Notebook with the data preprocessing, training and tuning of a LSTM Model.
+### Dependencies and Requirements for the Virtual Environment
+Env.sh is a bash file with all necessary dependencies for a virtual environment able to run this project entirely. This is meant for a Conda virtual environment, but you can adapt it to your specific like if you are using virtualenv or other means.
