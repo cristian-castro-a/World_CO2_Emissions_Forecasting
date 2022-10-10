@@ -36,7 +36,7 @@ As this project considers the world as a one entity, I recommend to watch this v
 ## Structure of the Repository
 ### Data
 The data used in this model is provided by Our World in Data: [CO2 Emissions - Our World in Data](https://github.com/owid/co2-data). Can be found in folder: Data.
-## Jupyter Notebooks
+### Jupyter Notebooks
 - ARIMA_vs_LSTM.ipynb: Jupyter Notebook where the comparison between both models is presented. Each model was trained separately, if interested in the individual training processes please refer to the other two Jupyter Notebooks.
 - Models > Arima_Model.ipynb: Jupyter Notebook with the data preprocessing, training and tuning of an ARIMA Model.
 - Models > LSTM_Model.ipynb: Jupyter Notebook with the data preprocessing, training and tuning of a LSTM Model.
