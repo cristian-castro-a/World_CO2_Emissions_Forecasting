@@ -9,6 +9,9 @@ As this project considers the world as a one entity, I recommend to watch this v
 
 ## Goal
 - This project aims to forecasting the amount of CO2 Emissions worldwide for the next 10 years (Period 2021 - 2030)
+- For that two models will be tested:
+    - Autoregressive Integrated Moving Average (ARIMA) Model
+    - Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) Model
 
 ## Results
 - Clearly, both models showed an upward trend
