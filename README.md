@@ -3,7 +3,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/cristian-castro-a/CO2_Emissions_Analysis_using_ARIMA_Model?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cristian-castro-a/CO2_Emissions_Analysis_using_ARIMA_Model)
 
 ## Motivation
-We talk a lot nowadays about global warming, but how bad the situation actually is? Is there any effect of so much discussion into the total world emissions? To assess these questions, I was motivated to do my own (humble) comparison between the performance of an ARIMA Model and a LSTM Recurrent Neural Network in forecasting the World's CO2 emissions. 
+Nowadays we talk a lot about global warming, but how bad is the situation actually? Is there any effect of so much discussion into the total world emissions? To assess these questions, I was motivated to do my own (humble) comparison between the performance of an ARIMA Model and a LSTM Recurrent Neural Network in forecasting the World's CO2 emissions. 
 
 As this project considers the world as a one entity, I recommend to watch this video: [Who Is Responsible For Climate Change? – Who Needs To Fix It?](https://www.youtube.com/watch?v=ipVxxxqwBQw&t=1s). It is difficult for us as humans to dimension the magnitude of the problem, but the video made by [Kurzgesagt – In a Nutshell](youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) helps not only to understand the size of the problem, but also its complexity with regard to equal development oportunities for the countries of the world. I hope this project can not only be a nice comparison between Arima and LSTM Models in Forecasting, but I also hope that this can be an input for the discussion and awareness of the global warming situation to everyone who reads it. If you have any comment let me know :)
 
@@ -15,7 +15,7 @@ As this project considers the world as a one entity, I recommend to watch this v
 
 ## Results
 - Clearly, both models showed an upward trend
-- While the LSTM Model exhibits a deceleration over time in the behavior of the CO2 Emissions, the ARIMA Model exhibits basically a constant (but high) rate of emission
+- While the LSTM Model exhibits a deceleration over time in the behavior of the CO2 Emissions, the ARIMA Model exhibits basically a constant (but rather high) rate of emission
 - According to an [IEA article](https://www.iea.org/news/global-co2-emissions-rebounded-to-their-highest-level-in-history-in-2021) the cumulated World's CO2 Emissions in 2021 were 36.3 Billion Tonnes. Considering this:
     - The LSTM Model forecasts 35.4 Billion Tonnes for 2021, which underestimates the real value by 2.5%
     - The ARIMA Model forecasts 33.7 Billion Tonnes for 2021, which underestimates the real value by 7.2%
