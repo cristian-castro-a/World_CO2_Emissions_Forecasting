@@ -1,2 +1,3 @@
-CO2_Emissions_Analysis.code-workspace
-.ipynb_checkpoints
+*.code-workspace
+
+*.ipynb_checkpoints
