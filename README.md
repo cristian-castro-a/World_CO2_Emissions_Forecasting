@@ -2,6 +2,7 @@
 ## Comparison between an ARIMA Model and a LSTM Recurrent Neural Network Model for Forecasting
 ![GitHub watchers](https://img.shields.io/github/watchers/cristian-castro-a/CO2_Emissions_Analysis_using_ARIMA_Model?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/cristian-castro-a/CO2_Emissions_Analysis_using_ARIMA_Model)
 
+By: [Cristian Castro Alvarez](https://www.linkedin.com/in/cristiancastroa/)
 ## Motivation
 Nowadays we talk a lot about global warming, but how bad is the situation actually? Is there any effect of so much discussion into the total world emissions? To assess these questions, I was motivated to do my own (humble) comparison between the performance of an ARIMA Model and a LSTM Recurrent Neural Network in forecasting the World's CO2 emissions. 
 
